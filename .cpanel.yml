@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/user/public_html/
-    - /home/c1959553c/APP/SERVER index.html $DEPLOYPATH
